@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://1kr8m:1kr8m@node-project-v2shf.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubToken": "087bde0c1fccb0cd44ea6a31b01a9c7abc092ab5"
+}
