@@ -15,13 +15,13 @@ export default function(state = initialState, action) {
       return {
         ...state,
         posts: payload,
-        laoding: false
+        loading: false
       };
     case POST_ERROR:
       return {
         ...state,
         error: payload,
-        laoding: false
+        loading: false
       };
     default:
       return state;
