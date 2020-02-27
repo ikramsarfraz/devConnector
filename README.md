@@ -80,4 +80,4 @@ npm run build
 
 ### VIEW ALL DEVELOPERS
 
-![](screenshots/devConnector_CommentPost.png)
+![](screenshots/devConnector_devs.png)
